@@ -1,2 +1,2 @@
-# alien-invasion
-Curso Intensivo de Python
+## alien-invasion
+Exercicio Final do Livro Curso Intensivo de Python
